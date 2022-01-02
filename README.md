@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lyonict, a Junior Front-End web developper !
 
 - 👀 I’m interested in web developement, cooking, and vido games !
-- 
+
 - 🌱 I’m currently learning the basics of the web, HTML/CSS/JS, and also learning how to use SASS and React on my free time.
 
 <!---
